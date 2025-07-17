@@ -1,5 +1,4 @@
 # gitdemo
 First git repository
 <br>
-author: aparna mallick
-
+author: aparna (student)
